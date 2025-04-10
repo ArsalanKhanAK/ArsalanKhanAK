@@ -46,6 +46,7 @@ Currently, I’m expanding my skills in Selenium and API testing to strengthen m
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 </p>
 
 ---
@@ -65,6 +66,15 @@ Currently, I’m expanding my skills in Selenium and API testing to strengthen m
 - Automated UI Testing with Selenium  
 - API Testing Techniques  
 - Writing and Reviewing Test Plans  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arsalan23681&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalan23681&layout=compact&theme=default" width="48%" />
+</p>
 
 ---
 
