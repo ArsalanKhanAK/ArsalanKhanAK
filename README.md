@@ -55,8 +55,8 @@ I believe in writing clean, understandable, and purposeful test cases and ensuri
 
 ## 📫 Contact
 
-- Email: arsalan.khan.sqa@gmail.com  
-- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
+- Email: arsalan23681@gmail.com  
+- LinkedIn: [https://www.linkedin.com/in/arsalankhan-qa/)
 
 ---
 
