@@ -7,56 +7,71 @@
 
 ## 👨‍💻 About Me
 
-I am passionate about ensuring software quality and reliability through structured testing methods. With a foundation in both manual testing and core web development, I continuously explore ways to improve software functionality and user experience. Currently expanding my knowledge in automation and API testing.
+I focus on ensuring software reliability through structured testing. With hands-on experience in manual testing and growing skills in automation, I contribute to stable and user-friendly products. My background includes test documentation, defect tracking, and collaborating closely with developers and teams.
 
-I believe in writing clean, understandable, and purposeful test cases and ensuring proper documentation at every step of the QA process.
+Currently, I’m expanding my skills in Selenium and API testing to strengthen my overall QA knowledge.
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### 🧪 Quality Assurance
-- Manual Testing: Functional, Regression, Sanity, Smoke  
-- Test Case Design and Execution  
-- Bug Reporting and Tracking  
-- Understanding of SDLC, STLC, and Defect Life Cycle  
+
+- ✅ Functional, Regression, Sanity, Smoke Testing  
+- 📋 Test Case Design & Execution  
+- 🐞 Bug Tracking & Reporting  
+- 🔁 SDLC, STLC & Defect Life Cycle  
+- 📂 Test Documentation & Requirement Analysis
 
 ### ⚙️ Tools & Technologies
-- Postman (API Testing)  
-- Selenium WebDriver (Learning)  
-- Git & GitHub  
-- Microsoft Office (Documentation & Reporting)
+
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" />
+</p>
 
 ### 💾 Databases
-- SQL (Data Validation & Querying)
 
-### 🌐 Web Development (Basic Level)
-- HTML, CSS, Bootstrap  
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+</p>
 
 ---
 
 ## 📂 GitHub Repositories
 
-- `test-cases-samples`: Practical examples of manual test cases for different modules  
-- `api-testing-practice`: Practice work with Postman collections  
-- `sql-practice`: Sample queries and scenarios for testing databases  
-- `ui-review-scenarios`: Interface testing examples with screenshots and notes  
-- *(More updates in progress...)*
+- `test-cases-samples`: Practical examples of manual test cases  
+- `api-testing-practice`: Practice collections with Postman  
+- `sql-practice`: Query examples and testing scenarios  
+- `ui-review-scenarios`: Screenshots and UI review notes  
+- *(More coming soon)*
 
 ---
 
-## 📈 Learning in Progress
+## 📈 Currently Learning
 
-- Automated Testing with Selenium  
-- API Testing Best Practices  
-- Writing Test Plans and QA Strategies  
+- Automated UI Testing with Selenium  
+- API Testing Techniques  
+- Writing and Reviewing Test Plans  
 
 ---
 
 ## 📫 Contact
 
-- Email: arsalan23681@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/arsalankhan-qa/
+- 📧 Email: arsalan23681@gmail.com  
+- 🔗 LinkedIn: [Arsalan Khan](https://www.linkedin.com/in/arsalankhan-qa/)
 
 ---
 
