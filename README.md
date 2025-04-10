@@ -4,7 +4,6 @@
 📍 Karachi, Pakistan  
 
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArsalanKhanAK&layout=compact&theme=dark&hide_border=true)
 
 ## 👨‍💻 About Me
 
