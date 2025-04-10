@@ -104,9 +104,7 @@ Currently, I’m expanding my skills in Selenium and API testing to strengthen m
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ArsalanKhanAK&theme=light&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="99%" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ArsalanKhanAK&theme=light&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="99%" />
-</p>
+
 ---
 
 ## 📫 Contact
