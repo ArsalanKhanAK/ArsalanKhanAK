@@ -87,13 +87,13 @@ Currently, I’m expanding my skills in Selenium and API testing to strengthen m
 - <a href="https://www.coursera.org">API Testing with Postman</a> — Coursera  
 - <a href="https://www.udemy.com">Database Management with SQL</a> — Udemy  
 
-__
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArsalanKhanAK&show_icons=true&theme=tokyonight&hide_border=false&hide_title=false&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArsalanKhanAK&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArsalanKhanAK&show_icons=true&theme=tokyonight&hide_border=false&hide_title=false&count_private=true&include_all_commits=true" height="20%" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArsalanKhanAK&layout=compact&theme=tokyonight&hide_border=false" height="20%" width="48%" />
 </p>
 
 <p align="center">
