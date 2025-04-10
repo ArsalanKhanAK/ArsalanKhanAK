@@ -13,15 +13,14 @@ Currently, I’m expanding my skills in Selenium and API testing to strengthen m
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ **Technical Skills**
 
-### 🧪 Quality Assurance
-
-- ✅ Functional, Regression, Sanity, Smoke Testing  
-- 📋 Test Case Design & Execution  
-- 🐞 Bug Tracking & Reporting  
-- 🔁 SDLC, STLC & Defect Life Cycle  
-- 📂 Test Documentation & Requirement Analysis
+### 🧪 **Quality Assurance**
+- ✅ **Functional, Regression, Sanity, Smoke Testing**: Proficient in designing and executing various testing types to ensure software functionality and stability.
+- 📋 **Test Case Design & Execution**: Expertise in creating detailed test cases based on requirements and ensuring their execution across different modules.
+- 🐞 **Bug Tracking & Reporting**: Skilled in identifying defects, tracking their life cycle, and reporting them using tools like Jira.
+- 🔁 **SDLC, STLC & Defect Life Cycle**: Strong understanding of the Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC), and managing the Defect Life Cycle.
+- 📂 **Test Documentation & Requirement Analysis**: Experienced in creating comprehensive test plans, test cases, and documenting testing procedures while analyzing requirements for test coverage.
 
 ### ⚙️ Tools & Technologies
 
