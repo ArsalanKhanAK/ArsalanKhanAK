@@ -95,6 +95,10 @@ Currently, I’m expanding my skills in Selenium and API testing to strengthen m
   <img src="https://github-readme-stats.vercel.app/api?username=ArsalanKhanAK&show_icons=true&theme=tokyonight&hide_border=false&hide_title=false&count_private=true&include_all_commits=true" height="200px" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArsalanKhanAK&layout=compact&theme=tokyonight&hide_border=false" height="200px" width="48%" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArsalanKhanAK&show_icons=true&theme=light&hide_border=false&hide_title=false&count_private=true&include_all_commits=true" height="200px" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArsalanKhanAK&layout=compact&theme=light&hide_border=false" height="200px" width="48%" />
+</p>
 
 
 <p align="center">
