@@ -69,6 +69,16 @@ Currently, I’m expanding my skills in Selenium and API testing to strengthen m
 
 ---
 
+## 🎓 Certifications
+
+- **Introduction to Software Testing** — [University of Minnesota] (https://coursera.org/share/751715fc71c2f78b620ef508efd693d4)
+- **Black-box and White-box Testing** — [University of Minnesota] (https://coursera.org/share/bf27203a8de1bd648928e6b15c6f6e97)
+- **Agile Project Management** — [Google] (https://coursera.org/share/32b9295f32bf3e6da2b73a7eafa0bd7f)
+- **API Testing with Postman** — [Coursera](https://www.coursera.org)
+- **Database Management with SQL** — [Udemy](https://www.udemy.com)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -77,7 +87,7 @@ Currently, I’m expanding my skills in Selenium and API testing to strengthen m
 </p>
 
 <p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com?user=ArsalanKhanAK theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D](https://www.google.com/url?sa=i&url=https%3A%2F%2Fadvantaltechnologies.com%2Fquality-assurance-testing%2F&psig=AOvVaw2ujKYbzNQbg8xYXwqv2BWz&ust=1744360430480000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJC8jbKHzYwDFQAAAAAdAAAAABAE)" width="99%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ArsalanKhanAK&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="99%" />
 </p>
 
 ---
