@@ -4,7 +4,7 @@
 📍 Karachi, Pakistan  
 
 ---
-
+![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
 ## 👨‍💻 About Me
 
 I focus on ensuring software reliability through structured testing. With hands-on experience in manual testing and growing skills in automation, I contribute to stable and user-friendly products. My background includes test documentation, defect tracking, and collaborating closely with developers and teams.
