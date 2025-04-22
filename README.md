@@ -84,18 +84,8 @@ Currently, I’m expanding my skills in Selenium and API testing to strengthen m
 - **Introduction to Software Testing** — University of Minnesota   <a href="https://coursera.org/share/751715fc71c2f78b620ef508efd693d4">Link</a>
 - **Black-box and White-box Testing** — University of Minnesota   <a href="https://coursera.org/share/bf27203a8de1bd648928e6b15c6f6e97">Link</a>
 - **Agile Project Management** — Google   <a href="https://coursera.org/share/32b9295f32bf3e6da2b73a7eafa0bd7f">Link</a>
-- **API Testing with Postman** — [Coursera](https://www.coursera.org)
+- **API Testing with Postman** — Coursera Project Networks  <a href="https://coursera.org/share/8abc5c20041b83e5eed5def03b315dee">Link</a>
 - **Database Management with SQL** — [Udemy](https://www.udemy.com)
-
----
-
-## 🎓 Certifications
-
-- <a href="https://coursera.org/share/751715fc71c2f78b620ef508efd693d4">Introduction to Software Testing</a> — University of Minnesota  
-- <a href="https://coursera.org/share/bf27203a8de1bd648928e6b15c6f6e97">Black-box and White-box Testing</a> — University of Minnesota  
-- <a href="https://coursera.org/share/32b9295f32bf3e6da2b73a7eafa0bd7f">Agile Project Management</a> — Google  
-- <a href="https://www.coursera.org">API Testing with Postman</a> — Coursera  
-- <a href="https://www.udemy.com">Database Management with SQL</a> — Udemy  
 
 ---
 
